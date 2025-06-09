@@ -193,7 +193,7 @@ const Portfolio3D: React.FC = () => {
         "<2s load time across all devices",
       ],
       liveUrl: "https://social-media-demo.vercel.app",
-      githubUrl: "https://github.com/shubhamnagar/social-media-app",
+      githubUrl: "https://github.com/shubhamnagar21/social-media-app",
       description: "A modern social media platform with real-time features and optimized performance.",
     },
     {
@@ -206,7 +206,7 @@ const Portfolio3D: React.FC = () => {
         "Supports 200+ concurrent users",
       ],
       liveUrl: "https://food-ordering-demo.vercel.app",
-      githubUrl: "https://github.com/shubhamnagar/food-ordering-app",
+      githubUrl: "https://github.com/shubhamnagar21/food-ordering-app",
       description: "Full-stack food ordering platform with real-time tracking and payment integration.",
     },
     {
@@ -219,7 +219,7 @@ const Portfolio3D: React.FC = () => {
         "Responsive design with reusable components",
       ],
       liveUrl: "https://weather-app-demo.vercel.app",
-      githubUrl: "https://github.com/shubhamnagar/weather-app",
+      githubUrl: "https://github.com/shubhamnagar21/weather-app",
       description: "Beautiful weather application with location-based forecasts and interactive UI.",
     },
   ]
@@ -437,7 +437,7 @@ const Portfolio3D: React.FC = () => {
                       <span>Email</span>
                     </a>
                     <a
-                      href="https://github.com/shubhamnagar"
+                      href="https://github.com/shubhamnagar21"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center space-x-2 px-6 py-3 bg-gradient-to-r from-purple-500 to-pink-600 rounded-lg hover:shadow-lg transition-all duration-300 hover:scale-105 text-white"
@@ -447,7 +447,7 @@ const Portfolio3D: React.FC = () => {
                       <span>GitHub</span>
                     </a>
                     <a
-                      href="https://linkedin.com/in/shubhamnagar"
+                      href="https://linkedin.com/in/shubhamnagar21"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center space-x-2 px-6 py-3 bg-gradient-to-r from-blue-600 to-blue-800 rounded-lg hover:shadow-lg transition-all duration-300 hover:scale-105 text-white"
